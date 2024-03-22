@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/siangyin/gpt3-ui/static/css/main.d58be54a.css",
+    "main.js": "/siangyin/gpt3-ui/static/js/main.07dd3890.js",
+    "static/media/ai3.png": "/siangyin/gpt3-ui/static/media/ai3.3ee2cacf1e37d2f88e0e.png",
+    "static/media/possibility.png": "/siangyin/gpt3-ui/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog04.jpg": "/siangyin/gpt3-ui/static/media/blog04.8ef8546a37d0d9114c9c.jpg",
+    "static/media/blog03.jpg": "/siangyin/gpt3-ui/static/media/blog03.a8b46a93c201541c1474.jpg",
+    "static/media/blog01a.jpg": "/siangyin/gpt3-ui/static/media/blog01a.7775402c69de776f6487.jpg",
+    "static/media/blog02.jpg": "/siangyin/gpt3-ui/static/media/blog02.61dc136dea00cc73913f.jpg",
+    "static/media/blog05.jpg": "/siangyin/gpt3-ui/static/media/blog05.79d50e74f0ff42b01b76.jpg",
+    "static/media/possibility3.png": "/siangyin/gpt3-ui/static/media/possibility3.98d21bba4f2ef0638ae4.png",
+    "static/media/people.png": "/siangyin/gpt3-ui/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/siangyin/gpt3-ui/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "/siangyin/gpt3-ui/index.html",
+    "main.d58be54a.css.map": "/siangyin/gpt3-ui/static/css/main.d58be54a.css.map",
+    "main.07dd3890.js.map": "/siangyin/gpt3-ui/static/js/main.07dd3890.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d58be54a.css",
+    "static/js/main.07dd3890.js"
+  ]
+}
